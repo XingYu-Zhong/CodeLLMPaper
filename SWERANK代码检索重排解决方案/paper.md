@@ -1,7 +1,7 @@
 # SWERANK: Software Issue Localization with Code Ranking
 
-论文地址[https://arxiv.org/abs/2505.07849](https://arxiv.org/abs/2505.07849)  
-项目仓库[https://github.com/gangiswag/SweRank](https://github.com/gangiswag/SweRank)
+论文地址:[https://arxiv.org/abs/2505.07849](https://arxiv.org/abs/2505.07849)  
+项目仓库:[https://github.com/gangiswag/SweRank](https://github.com/gangiswag/SweRank)
 
 ---
 
