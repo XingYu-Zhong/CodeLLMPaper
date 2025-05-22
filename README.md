@@ -11,6 +11,7 @@
 |   plan agent做代码生成    | [Planning In Natural Language Improves LLM Search For Code Generation](./plan%20agnet在代码生成任务中的解决方案/Planning%20In%20Natural%20Language%20Improves%20LLM%20Search%20For%20Code%20Generation.md) | ★ |
 |   用伪代码来代替cot    | [UNLOCKING REASONING POTENTIAL IN LARGE LANGUAGE MODELS BY SCALING CODE-FORM PLANNING](./codeplan数据构造的解决方案/UNLOCKING%20REASONING%20POTENTIAL%20IN%20LARGE%20LANGUAGE%20MODELS%20BY%20SCALING%20CODE-FORM%20PLANNING.md) | ★ |
 |   代码embedding-rerank模型    | [SWERANK: Software Issue Localization with Code Ranking](./SWERANK代码检索重排解决方案/paper.md) | ★★ |
+|   SWE agent规划操控接口       | [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](./swe%20agent解决方案/paper.md)  | ★★ |
 
 
 
