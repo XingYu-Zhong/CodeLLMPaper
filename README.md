@@ -12,7 +12,9 @@
 |   用伪代码来代替cot    | [UNLOCKING REASONING POTENTIAL IN LARGE LANGUAGE MODELS BY SCALING CODE-FORM PLANNING](./codeplan数据构造的解决方案/UNLOCKING%20REASONING%20POTENTIAL%20IN%20LARGE%20LANGUAGE%20MODELS%20BY%20SCALING%20CODE-FORM%20PLANNING.md) | ★ |
 |   代码embedding-rerank模型    | [SWERANK: Software Issue Localization with Code Ranking](./SWERANK代码检索重排解决方案/paper.md) | ★★ |
 |   SWE agent规划操控接口       | [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](./swe%20agent解决方案/paper.md)  | ★★ |
-|   代码仓库图关系rag       | [OrcaLoca: An LLM Agent Framework for Software Issue Localization](./代码仓库图关系挖掘解决方案/paper.md)  | ★★ |
+|   代码仓库图关系rag       | [OrcaLoca: An LLM Agent Framework for Software Issue Localization](./代码仓库图关系挖掘解决方案/paper.md)  | ★★★ |
+|   代码仓库图关系rag       | [LocAgent: Graph-Guided LLM Agents for Code Localization](./代码仓库轻量级图索引定位解决方案/paper.md)  | ★★★★ |
+
 
 
 
