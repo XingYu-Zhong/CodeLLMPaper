@@ -14,6 +14,7 @@
 |   SWE agent规划操控接口       | [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](./swe%20agent解决方案/paper.md)  | ★★ |
 |   代码仓库图关系rag       | [OrcaLoca: An LLM Agent Framework for Software Issue Localization](./代码仓库图关系挖掘解决方案/paper.md)  | ★★★ |
 |   代码仓库图关系rag       | [LocAgent: Graph-Guided LLM Agents for Code Localization](./代码仓库轻量级图索引定位解决方案/paper.md)  | ★★★★ |
+|   模块思想数据构建       | [MoTCoder: Elevating Large Language Models with Module-of-Thought](./模块思想数据构建解决方案/paper.md)  | ★★ |
 
 
 
