@@ -16,6 +16,8 @@
 |   代码仓库图关系rag       | [LocAgent: Graph-Guided LLM Agents for Code Localization](./代码仓库轻量级图索引定位解决方案/paper.md)  | ★★★★ |
 |   模块思想数据构建       | [MoTCoder: Elevating Large Language Models with Module-of-Thought](./模块思想数据构建解决方案/paper.md)  | ★ |
 |   图关系代码大模型       | [CODE GRAPH MODEL (CGM):A GRAPH-INTEGRATED LARGE LANGUAGE MODEL FOR REPOSITORY-LEVEL SOFTWARE ENGINEERING TASKS](./图关系代码大模型解决方案/paper.md)  | ★ |
+|   swe新评测数据集       | [SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development](./swe新评测数据集解决方案/paper.md)  | ★★ |
+|   swe新评测数据集      | [SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents](./swe新评测数据集解决方案/paper2.md)  | ★★ |
 
 
 
