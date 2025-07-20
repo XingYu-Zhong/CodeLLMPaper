@@ -19,6 +19,7 @@
 |   swe新评测数据集       | [SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development](./swe新评测数据集解决方案/paper.md)  | ★★ |
 |   swe新评测数据集      | [SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents](./swe新评测数据集解决方案/paper2.md)  | ★★ |
 | 代码agent搜索优化 | [SWE-SEARCH: 通过蒙特卡洛树搜索和迭代优化来增强软件智能体](./swesearch代码agent设计解决方案/paper.md) | ★★ |
+|   自适应规划多智能体框架    | [AdaCoder: 一个更聪明、更高效的AI代码生成框架](./AdaCoder自适应规划多智能体框架解决方案/paper.md) | ★ |
 
 
 
