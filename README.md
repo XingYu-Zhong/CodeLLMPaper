@@ -20,6 +20,7 @@
 |   swe新评测数据集      | [SWE-rebench: An Automated Pipeline for Task Collection and Decontaminated Evaluation of Software Engineering Agents](./swe新评测数据集解决方案/paper2.md)  | ★★ |
 | 代码agent搜索优化 | [SWE-SEARCH: 通过蒙特卡洛树搜索和迭代优化来增强软件智能体](./swesearch代码agent设计解决方案/paper.md) | ★★ |
 |   AI智能体工作能力评测    | [TheAgentCompany：一个"模拟公司"来评测AI智能体的真实工作能力](./TheAgentCompany模拟公司评测解决方案/paper.md) | ★★ |
+|   代码库探索与理解    | [RepoMaster: 让AI学会"抄"代码，高效解决复杂任务](./RepoMaster代码库探索与理解解决方案/paper.md) | ★★ |
 |   自适应规划多智能体框架    | [AdaCoder: 一个更聪明、更高效的AI代码生成框架](./AdaCoder自适应规划多智能体框架解决方案/paper.md) | ★ |
 
 
