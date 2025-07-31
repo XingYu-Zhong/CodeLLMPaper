@@ -23,6 +23,7 @@
 |   代码库探索与理解    | [RepoMaster: 让AI学会"抄"代码，高效解决复杂任务](./RepoMaster代码库探索与理解解决方案/paper.md) | ★★ |
 |   深度研究智能体    | [Code Researcher: Deep Research Agent for Large Systems Code and Commit History](./Code%20Researcher深度研究智能体解决方案/paper.md) | ★★★ |
 |   自适应规划多智能体框架    | [AdaCoder: 一个更聪明、更高效的AI代码生成框架](./AdaCoder自适应规划多智能体框架解决方案/paper.md) | ★ |
+|   多智能体协作学习框架    | [LessonL: 三个臭皮匠，赛过诸葛亮——揭秘让AI程序员组团学习的"武林秘籍"](./LessonL多智能体协作学习框架解决方案/paper.md) | ★★ |
 
 
 
